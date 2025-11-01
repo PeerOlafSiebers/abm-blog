@@ -4,8 +4,8 @@ From Concept to First Prototype\
 [https://people.cs.nott.ac.uk/pszps/llm.html#post12](https://people.cs.nott.ac.uk/pszps/abm.html#post12)\
 gabm-sir-prototype_0.9.1.zip (first public release)
 
-From Concept to First Prototype\
+Towards the Perfect Prompt\
 Coming soon ...
 
-From Concept to First Prototype\
+Stress Testing the System\
 Coming soon ...
