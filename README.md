@@ -1,6 +1,6 @@
 # ABM-Blog Projects
 
-Projects from my ABM blog (https://people.cs.nott.ac.uk/pszps/abm.html).
+Projects from my [ABM blog](https://people.cs.nott.ac.uk/pszps/abm.html).
 
 These projects are developed and tested on Windows 10. They have not been verified to work on macOS or Linux.
 
